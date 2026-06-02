@@ -145,7 +145,7 @@ Spring Boot Backend Application
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs"/>
+<img src="https://skillicons.dev/icons?i=springboot,fastapi,flask,nodejs"/>
 </p>
 
 ### Databases
